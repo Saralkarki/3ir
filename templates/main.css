@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    width: 25%;
+    height: 10%;
+    position: relative;
+    top:5px;
+    left:10px;
+}
+.container-fluid {
+    background:white;
+ }
+#carousel_id{
+    margin: 0;
+    padding: 0;
+    height: 70vh;
+}
+#nav_menu{
+    margin:0; 
+    padding:0;
+}
